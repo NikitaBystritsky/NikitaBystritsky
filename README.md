@@ -2,7 +2,7 @@
     <h1>Hi there, I'm  Nikita </h1>
     <h3>Front-end develover, from Ekaterinburg</h3>
     <h3>My education: Ural federal university - Software engineering(2020-2024)</h3>
-    <h3>Currently studying in the same university for a Master's Degree</h3>
+    <h3>Currently studying at the same university for a Master's Degree</h3>
 </div>
 
 ### About me
